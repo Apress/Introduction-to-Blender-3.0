@@ -1,12 +1,13 @@
 # Introduction to Blender 3.0
 by Gianpiero Moioli.
 
-This repository contains the demo files of the book 
-## Introduction to Blender 3.0.
-### Learn Organic and Architectural Modeling, Lighting, Materials, Painting, Rendering, and Compositing with Blender.
-The book aims to provide the technical basis to use Blender creatively.
+This repository contains the demo files of the book.
+The volume aims to provide the technical basis to use Blender creatively.
 This software puts at our disposal a set of disparate instruments of expression available for many uses from art to architecture, from painting to design.
 In this book, I have tried to demonstrate the wide range of realization and creative possibilities in Blender, limited only by the artist's imagination.
+
+## Introduction to Blender 3.0.
+### Learn Organic and Architectural Modeling, Lighting, Materials, Painting, Rendering, and Compositing with Blender.
 
 The folders contain the reference images and demonstration files of the exercises included in the book.
 Each folder contains the files for deepening and understanding the themes developed in the respective chapter.
