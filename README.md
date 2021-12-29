@@ -1,9 +1,9 @@
 # Introduction to Blender 3.0
 by Gianpiero Moioli.
 
-This repository contains the demo files of the book.
+This repository contains the demo files of the book published by Apress [Introduction to Blender 3.0](https://).
 The volume aims to provide the technical basis to use Blender creatively.
-This software puts at our disposal a set of disparate instruments of expression available for many uses from art to architecture, from painting to design.
+This software puts at our disposal a set of disparate instruments of expression available for many uses from art to architecture, from painting to design, etc.
 In this book, I have tried to demonstrate the wide range of realization and creative possibilities in Blender, limited only by the artist's imagination.
 
 ## Introduction to Blender 3.0.
