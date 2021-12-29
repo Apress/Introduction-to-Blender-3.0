@@ -7,3 +7,8 @@ Learn Organic and Architectural Modeling, Lighting, Materials, Painting, Renderi
 
 ![2_27_SculptMode](https://user-images.githubusercontent.com/95879583/147708349-262be258-0a1e-403c-91ae-9575af2d5b2e.jpg)
 
+The folders contain the reference images and demonstration files of the exercises included in the book.
+Each folder contains the files for deepening and understanding the themes developed in the respective chapter.
+The first chapter contains a theoretical introduction to Blender, for which there are no exercises.
+In the second chapter, dedicated to modeling, we explore two different ways of creating virtual objects: 
+In the third chapter …
