@@ -15,7 +15,7 @@ The first chapter contains a theoretical introduction to Blender, for which ther
 In the second chapter, dedicated to modeling, we explore two different ways of creating virtual objects:starting from a primitive, and from a single vertex.
 In the third chapter …
 
-![2_27_SculptMode](https://user-images.githubusercontent.com/95879583/147708349-262be258-0a1e-403c-91ae-9575af2d5b2e.jpg # gh-dark-mode-only)
+![2_27_SculptMode](https://user-images.githubusercontent.com/95879583/147708349-262be258-0a1e-403c-91ae-9575af2d5b2e.jpg# gh-dark-mode-only)
 
 
 #### Looking at the folder's contents
