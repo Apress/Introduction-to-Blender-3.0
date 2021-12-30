@@ -18,7 +18,7 @@ The first chapter contains a theoretical introduction to Blender 3.0 and its int
 The second chapter, dedicated to 3D modeling, explores two ways of creating virtual objects: building a thing from a primitive and another from a single vertex.
 In the first case, we learned how to create a simple teapot editing a Sphere primitive. In the second, we created a glass by extruding a single vertex, building a profile, and applying modifiers, as we can see in the figure.
 
-![Chapter_02_Glass_Low](https://user-images.githubusercontent.com/95879583/147794486-71d55092-65da-4c17-8d04-96122e2342ae.jpg)
+![Chapter_02_Glass](https://user-images.githubusercontent.com/95879583/147794514-25e184e0-2131-4f5e-abb0-60e8d2e1ea52.jpg)
 
 So, in the first folder, we find the files of the modeled objects and the reference images used to create them.
 ##### Third chapter
