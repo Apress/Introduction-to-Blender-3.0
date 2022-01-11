@@ -44,7 +44,7 @@ We present some theoretical principles of nodal materials, PBR materials, textur
 
  ![image](https://user-images.githubusercontent.com/95879583/148989789-5038609a-f32e-48dc-92c2-cf66ec647c92.png)
 
-We find Blender files with different nodal materials and a procedural metal in the folder. In addition, the book lists several sites from which to download free professional-grade PBR textures.  
+We find Blender files with different nodal materials in the folder. In addition, the book lists several sites from which to download free professional-grade PBR textures.  
 ##### Fifth chapter
 The fifth chapter teaches us to paint with Blender's internal digital painting tools and devices and other graphic editing software.
 In Blender, we can paint, for various purposes, in Texture Paint, Vertex Paint, and Weight Paint modalities.
