@@ -37,14 +37,13 @@ The same directory also includes the files LivingRoom, Humans, and RedChair, whi
  
 ![image](https://user-images.githubusercontent.com/95879583/148989739-da6f2255-848d-44b1-8469-a7113f26fa8a.png)
 
-You will find the Barcelona chair by Mies Van der Rohe used here and many other design objects on the site https://archive3d.net/. The book explains how to import it into Blender.
 ##### Fourth chapter
 The fourth chapter shows how to make materials and textures, assign them to objects, and adequately illuminate the scene to create the environment.
 We present some theoretical principles of nodal materials, PBR materials, texture creation, and lighting systems. Then, we apply the theoretical principles in the exercises and create different materials: traditional, PBR, and procedural, like the one shown in the figure.
 
  ![image](https://user-images.githubusercontent.com/95879583/148989789-5038609a-f32e-48dc-92c2-cf66ec647c92.png)
 
-We find Blender files with different nodal materials in the folder. In addition, the book lists several sites from which to download free professional-grade PBR textures.  
+We find Blender files with different nodal materials and a procedural metal in the folder. In addition, the book lists several sites from which to download free professional-grade PBR textures.  
 ##### Fifth chapter
 The fifth chapter teaches us to paint with Blender's internal digital painting tools and devices and other graphic editing software.
 In Blender, we can paint, for various purposes, in Texture Paint, Vertex Paint, and Weight Paint modalities.
