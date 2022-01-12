@@ -24,6 +24,7 @@ So, in the first folder, we find the files of the modeled objects and the refere
 In the same chapter, we deal with Modeling in Sculpt Mode.
 The teapot material is created with PBR textures downloaded from the site https://ambientcg.com/.
 Instead, the glass reproduces a material of @chippwalters downloadable for free from Gumroad.
+
 ##### Third chapter
 In the third chapter, we deepen architectural construction and environmental modeling.
 We build architectural and urban spaces using both manual and automatic techniques. Then, finally, we make objects, furniture, and people to populate the environment. 
@@ -36,6 +37,8 @@ This folder also contains the results obtained with other Blender plug-ins for p
 The same directory also includes the files LivingRoom, Humans, and RedChair, which contain a model of an architectural interior, shown in the figure, furnished and populated by humans that we learn to model in this chapter.
  
 ![image](https://user-images.githubusercontent.com/95879583/148989739-da6f2255-848d-44b1-8469-a7113f26fa8a.png)
+
+You can download the HDRI maps we used in these files and many others from the site https://polyhaven.com/hdris.
 
 ##### Fourth chapter
 The fourth chapter shows how to make materials and textures, assign them to objects, and adequately illuminate the scene to create the environment.
@@ -52,7 +55,10 @@ We can create textures for our PBR materials by painting them within Blender, or
 ![image](https://user-images.githubusercontent.com/95879583/148989853-86087ae9-66b2-45f1-b9d0-2c8d793362ed.png)
 
 We can use the graphics tablet.
-The files you can find in the relative folder propose some painting methods in Blender for creating images and textures. Also, in the fifth chapter, we discuss some ways for applying the created textures to materials.
+The files you can find in the relative folder propose some painting methods in Blender for creating images and textures.
+You can download the missing texture files from the site https://www.textures.com/library.
+Also, in the fifth chapter, we discuss some ways for applying the created textures to materials.
+
 ##### Sixth chapter
 The sixth chapter teaches us to render our scene and transform it into an image or video. Blender 3.0 supports various professional file formats for pictures and videos.
 There are four different internal renderers: Eevee, Cycles, Workbench, and Freestyle.
